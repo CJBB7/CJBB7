@@ -1,6 +1,7 @@
 <h1> iCHRI7's Profile</h1>
 <ul>
 <li>👋 Hi, I’m Christian Barbosa, but you can call me Chris ;)</li>
+<li>🌐 My first languaje is Spanish and my second one is English</li>
 <li>👀 I’m interested in programming</li>
 <li>🌱 I’m currently learning about Javascript and how to use it in backend</li>
 <li>💞️ I’m looking to collaborate on whatever but I need to learn</li>
